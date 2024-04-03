@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: sparkparser-$NEXT_MINOR_VERSION
