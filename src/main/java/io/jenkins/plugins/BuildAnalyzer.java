@@ -25,14 +25,16 @@ public class BuildAnalyzer {
     private static int getCurrentBuildNumber() {
         // Read the current build number from a file
         // Return the build number as an integer
-    	
+
+        return 0;
     }
     
     private static String getLatestConsoleLogFile(int currentBuildNumber) {
         // Construct the directory path based on the current build number
         // List files in the directory and find the latest console log file
         // Return the path to the latest console log file
-    	
+
+        return "";	
     }
     
     private static HashMap<String, Integer> parseConsoleLogFile(String consoleLogFilePath) {
